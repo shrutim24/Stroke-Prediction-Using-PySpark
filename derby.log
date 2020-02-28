@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 22 13:05:12 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016d-f264-246b-00001151f9b0 
+on database directory /home/aditya/Desktop/Healthcare/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@22495f82 
+Loaded from file:/home/aditya/spark/spark-2.4.4-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+user.dir=/home/aditya/Desktop/Healthcare
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-65-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
